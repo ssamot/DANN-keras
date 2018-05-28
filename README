@@ -1,0 +1,9 @@
+A keras implementation of adversarial domain adaptation - a slight modification over the original
+
+Some code is borrowed from this repo 
+
+[https://github.com/pumpikano/tf-dann/blob/master/Blobs-DANN.ipynb]
+
+Basic papers describing the method are here: 
+Ganin, Yaroslav, and Victor Lempitsky. "Unsupervised Domain Adaptation by Backpropagation." International Conference on Machine Learning. 2015.(http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)
+[Tzeng, Eric, et al. "Adversarial discriminative domain adaptation." Computer Vision and Pattern Recognition (CVPR). Vol. 1. No. 2. 2017.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)
